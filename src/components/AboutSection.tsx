@@ -42,7 +42,7 @@ const AboutSection = () => {
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
                 I'm an efficient and results-driven Senior .NET Engineer based in London, United Kingdom, 
-                with over 8 years' experience designing, developing, and deploying scalable, event-driven, 
+                with over 5 years' experience designing, developing, and deploying scalable, event-driven, 
                 and cloud-native applications across finance, trading, risk management, and e-commerce sectors.
               </p>
               <p>
