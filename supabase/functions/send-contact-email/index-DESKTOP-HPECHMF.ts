@@ -44,7 +44,7 @@ const handler = async (req: Request): Promise<Response> => {
       },
       body: JSON.stringify({
         from: "Portfolio Contact <onboarding@resend.dev>",
-        to: ["ozougwuifeanyi160@gmail.com"],
+        to: ["ozougwu2016@gmail.com"],
         subject: `New Contact: ${subject}`,
         html: `
           <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
@@ -94,7 +94,7 @@ const handler = async (req: Request): Promise<Response> => {
             <p>Best regards,<br><strong>Reginald Ozougwu</strong><br>Senior .NET Developer</p>
             <hr style="border: none; border-top: 1px solid #e0e0e0; margin: 20px 0;">
             <p style="color: #666; font-size: 12px;">
-              London, United Kingdom | ozougwuifeanyi160@gmail.com
+              London, United Kingdom | ozougwu2016@gmail.com
             </p>
           </div>
         `,
